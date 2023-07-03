@@ -174,8 +174,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = 'ZeroBot'
-global.igfg = '@ventas_bot.thezero'
+global.wm = 'Kazz'
+global.igfg = '@𝐨𝐥𝐚𝐬𝐨𝐲𝐭𝐚𝐧𝐢𝐚'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
